@@ -21,6 +21,6 @@ A bunch of low-quality code stitched up for some chaz!z video.
 
 ``gource retrosite --output-custom-log retrosite.txt``
 
-``gource retrosite --output-custom-log TWTACCT.txt``
+``gource TWTACCT --output-custom-log TWTACCT.txt``
 
-``gource retrosite --output-custom-log BlockPage.txt``
+``gource BlockPage --output-custom-log BlockPage.txt``
