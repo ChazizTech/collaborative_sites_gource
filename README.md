@@ -24,3 +24,15 @@ A bunch of low-quality code stitched up for some chaz!z video.
 ``gource TWTACCT --output-custom-log TWTACCT.txt``
 
 ``gource BlockPage --output-custom-log BlockPage.txt``
+
+## Bash Commands
+
+``sed -i -r "s#(.+)\|#\1|/most_awesome_website#" AWB.txt``
+
+``sed -i -r "s#(.+)\|#\1|/2003page#" 2003page.txt``
+
+``sed -i -r "s#(.+)\|#\1|/Retrosite#" retrosite.txt``
+
+``sed -i -r "s#(.+)\|#\1|/TWTACCT#" TWTACCT.txt``
+
+``sed -i -r "s#(.+)\|#\1|/BlockPage#" BlockPage.txt``
