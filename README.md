@@ -36,3 +36,5 @@ A bunch of low-quality code stitched up for some chaz!z video.
 ``sed -i -r "s#(.+)\|#\1|/TWTACCT#" TWTACCT.txt``
 
 ``sed -i -r "s#(.+)\|#\1|/BlockPage#" BlockPage.txt``
+
+``cat AWB.txt 2003page.txt Retrosite.txt TWTACCT.txt BlockPage.txt | sort -n > combined.txt``
