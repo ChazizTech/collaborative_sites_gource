@@ -29,3 +29,5 @@ ThatXPUser|TLWXPUser
 JarHead|Jarhead_Gamer38
 Isaac Daniel|TLWXPUser
 grumpzalt|Grumpz
+HybridCartoon|Cartoon
+LeoKids|Leo Historias
